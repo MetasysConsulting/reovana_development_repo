@@ -17,6 +17,8 @@ Two separate Next.js websites in this folder.
 
 This syncs both apps to `reovana_development_repo` for client review.
 
+**Vercel:** This repo is a monorepo — you must set **Root Directory** to `proty-web` or `site-2-web` (see [DEPLOYMENT.md](DEPLOYMENT.md)). Leaving it at the repo root causes `404 NOT_FOUND`.
+
 ## Quick start
 
 **Site 1 (Proty):**
